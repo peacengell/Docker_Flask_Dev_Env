@@ -1,0 +1,12 @@
+body {
+    background-color: beige;
+    display: none;
+}
+
+#navbar {
+    color: darkgray;
+    padding: 0;
+    margin: 0;
+    text-decoration-line: none;
+    display: inline !important;
+}
